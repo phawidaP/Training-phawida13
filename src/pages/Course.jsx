@@ -9,21 +9,28 @@ const CourseCard = (props) => {
         <strong>Basic React Navtive</strong>
       </p>
       <p style={textStyle}>Duration: 5 days</p>
-      <p style={textStyle}>Price 6900</p>
+      <p style={textStyle}>Price 7500</p>
     </div>
     <div style={divStyle}>
       <p style={textStyle}>
         <strong>Power BI Dashboard</strong>
       </p>
       <p style={textStyle}>Duration: 4 days</p>
-      <p style={textStyle}>Price 4800</p>
+      <p style={textStyle}>Price 5500</p>
     </div>
     <div style={divStyle}>
       <p style={textStyle}>
         <strong>UI Design with Figma</strong>
       </p>
       <p style={textStyle}>Duration: 3 days</p>
-      <p style={textStyle}>Price 4500</p>
+      <p style={textStyle}>Price 5000</p>
+    </div>
+    <div style={divStyle}>
+      <p style={textStyle}>
+        <strong>Cross Platform with Flutter</strong>
+      </p>
+      <p style={textStyle}>Duration: 5 days</p>
+      <p style={textStyle}>Price 6500</p>
     </div>
     </>
     
